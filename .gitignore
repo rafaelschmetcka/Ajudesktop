@@ -1,0 +1,30 @@
+# Ignorar ambiente virtual
+.venv/
+
+# Ignorar arquivos temporários
+*.log
+*.db
+*.sqlite
+*.bak
+
+# Ignorar arquivos Python compilados
+*.pyc
+__pycache__/
+
+# Ignorar pastas de construção
+dist/
+build/
+
+# Ignorar binários
+*.exe
+*.app
+
+# Ignorar configurações de IDE
+.vscode/
+.idea/
+
+#Ignorar arquivo password
+password
+
+#Ignorar arquivo de logs
+command_log.txt
